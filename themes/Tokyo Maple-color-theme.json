@@ -7,7 +7,7 @@
     "disabledForeground": "#545c7e",
     "focusBorder": "#545c7e33",
     "errorForeground": "#515670",
-    "widget.shadow": "#00000050",
+    "widget.shadow": "#101014a0",
     "scrollbar.shadow": "#00000033",
     "badge.background": "#7e83b230",
     "badge.foreground": "#acb0d0",
@@ -99,6 +99,8 @@
 
     "pickerGroup.foreground": "#adb2d3",
     "pickerGroup.border": "#101014",
+
+    "quickInputTitle.background": "#16161e",
 
     "scrollbarSlider.background": "#868bc415",
     "scrollbarSlider.hoverBackground": "#868bc410",
@@ -400,6 +402,7 @@
     "gitlens.gutterForegroundColor": "#787c99",
     "gitlens.gutterBackgroundColor": "#16161e",
 
+    "notificationToast.border": "#101014",
     "notificationCenterHeader.background": "#1a1b26",
     "notifications.background": "#16161e",
     "notifications.border": "#1a1b26",
