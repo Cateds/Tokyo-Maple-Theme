@@ -438,19 +438,7 @@
       "foreground": "#eecfa0",
       "italic": true
     },
-    "variable.mutable": {
-      "underline": true
-    },
-    "parameter.mutable": {
-      "underline": true
-    },
-    "function.mutable": {
-      "underline": true
-    },
-    "method.mutable": {
-      "underline": true
-    },
-    "property.mutable": {
+    "*.mutable": {
       "underline": true
     },
     "property.declaration": "#ded6cf",
@@ -509,18 +497,10 @@
     "selfParameter": {
       "foreground": "#e3cbeb",
       "italic": true,
-      "underline": false
-    },
-    "selfParameter.mutable": {
-      "underline": true
     },
     "selfKeyword": {
       "foreground": "#e3cbeb",
       "italic": true,
-      "underline": false
-    },
-    "selfKeyword.mutable": {
-      "underline": true
     },
     "enum": "#a1e8e5",
     "enumMember": "#ded6cf",
