@@ -1,32 +1,12 @@
 {
-  "name": "tokyo-maple-theme",
-  "displayName": "Tokyo Maple Theme",
-  "description": "A color theme fine-tuned based on Tokyo Night and Maple for optimized readability.",
-  "icon": "resources/icon.png",
-  "publisher": "Cateds",
-  "license": "MIT",
+  "name": "tokyo-maple-theme-workspace",
   "version": "1.0.0",
-  "engines": {
-    "vscode": "^1.102.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Cateds/tokyo-maple-theme"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Tokyo Maple",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Tokyo Maple-color-theme.json"
-      }
-    ]
-  },
+  "private": true,
+  "description": "Tokyo Maple Theme workspace",
   "scripts": {
-    "package": "vsce package",
-    "publish": "vsce publish"
-  }
+    "vscode:package": "pnpm --filter tokyo-maple-theme package",
+    "vscode:publish": "pnpm --filter tokyo-maple-theme publish",
+    "zed:build": "pnpm --filter zed-theme build"
+  },
+  "packageManager": "pnpm@9.0.0"
 }

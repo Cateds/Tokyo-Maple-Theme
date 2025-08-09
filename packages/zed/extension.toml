@@ -1,0 +1,7 @@
+id = "tokyo-maple-theme"
+name = "Tokyo Maple Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Cateds <this.id.was.used@outlook.com>"]
+description = "A color theme fine-tuned based on Tokyo Night and Maple for optimized readability."
+repository = "https://github.com/Cateds/tokyo-maple-theme"
