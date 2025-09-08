@@ -4,8 +4,8 @@
   "private": true,
   "description": "Tokyo Maple Theme workspace",
   "scripts": {
-    "vscode:package": "pnpm --filter tokyo-maple-theme package",
-    "vscode:publish": "pnpm --filter tokyo-maple-theme publish",
+    "vscode:package": "pnpm --filter tokyo-maple-theme vsce:package",
+    "vscode:publish": "pnpm --filter tokyo-maple-theme vsce:publish",
     "zed:build": "pnpm --filter zed-theme build"
   },
   "packageManager": "pnpm@9.0.0"

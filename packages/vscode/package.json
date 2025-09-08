@@ -21,13 +21,23 @@
       {
         "label": "Tokyo Maple",
         "uiTheme": "vs-dark",
-        "path": "./themes/Tokyo Maple-color-theme.json"
+        "path": "./themes/Tokyo Maple.json"
+      },
+      {
+        "label": "One Dark Pro (Maple)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Pro - Maple.json"
+      },
+      {
+        "label": "One Dark Pro Darker (Maple)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Pro Darker - Maple.json"
       }
     ]
   },
   "scripts": {
-    "package": "vsce package",
-    "publish": "vsce publish"
+    "vsce:package": "vsce package",
+    "vsce:publish": "vsce publish"
   },
   "devDependencies": {
     "@vscode/vsce": "^3.6.0"
