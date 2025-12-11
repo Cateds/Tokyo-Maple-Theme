@@ -102,9 +102,9 @@
 
     "quickInputTitle.background": "#16161e",
 
-    "scrollbarSlider.background": "#868bc415",
-    "scrollbarSlider.hoverBackground": "#868bc410",
-    "scrollbarSlider.activeBackground": "#868bc422",
+    "scrollbarSlider.background": "#868bc425",
+    "scrollbarSlider.hoverBackground": "#868bc440",
+    "scrollbarSlider.activeBackground": "#868bc455",
 
     "editorBracketHighlight.foreground1": "#698cd6", //"#7AA2F7",
     "editorBracketHighlight.foreground2": "#68b3de", //"#7DCFFF",
@@ -496,11 +496,11 @@
     },
     "selfParameter": {
       "foreground": "#e3cbeb",
-      "italic": true,
+      "italic": true
     },
     "selfKeyword": {
       "foreground": "#e3cbeb",
-      "italic": true,
+      "italic": true
     },
     "enum": "#a1e8e5",
     "enumMember": "#ded6cf",
