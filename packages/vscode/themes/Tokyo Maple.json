@@ -190,7 +190,7 @@
     "editorGroup.dropBackground": "#1e202ecc",
     "editorGroupHeader.tabsBackground": "#16161e",
     "editorGroupHeader.noTabsBackground": "#16161e",
-    "editorGroupHeader.border": "#191922",
+    "editorGroupHeader.border": "#16161e75",
 
     "editorPane.background": "#1a1b26",
 

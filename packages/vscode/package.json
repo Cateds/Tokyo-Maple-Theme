@@ -24,12 +24,12 @@
         "path": "./themes/Tokyo Maple.json"
       },
       {
-        "label": "One Dark Pro (Maple)",
+        "label": "One Dark Maple",
         "uiTheme": "vs-dark",
         "path": "./themes/One Dark Pro - Maple.json"
       },
       {
-        "label": "One Dark Pro Darker (Maple)",
+        "label": "One Dark Maple Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/One Dark Pro Darker - Maple.json"
       }
