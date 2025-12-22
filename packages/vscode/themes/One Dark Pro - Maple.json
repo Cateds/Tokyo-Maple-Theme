@@ -954,7 +954,7 @@
     "input.foreground": "#abb2bf",
 
     "inputValidation.infoForeground": "#bbc2e0",
-    "inputValidation.infoBackground": "#3d59a15c",
+    "inputValidation.infoBackground": "#3d59a1",
     "inputValidation.infoBorder": "#3d59a1",
     "inputValidation.warningForeground": "#000000",
     "inputValidation.warningBackground": "#c2985b",
