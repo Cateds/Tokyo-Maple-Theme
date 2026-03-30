@@ -265,7 +265,9 @@
     "chat.slashCommandBackground": "#88c0d030",
     "inlineEdit.gutterIndicator.primaryBackground": "#141414",
     "inlineEdit.gutterIndicator.primaryForeground": "#88c0d0",
-    "inlineEdit.gutterIndicator.primaryBorder": "#88c0d0"
+    "inlineEdit.gutterIndicator.primaryBorder": "#88c0d0",
+
+    "actionBar.toggledBackground": "#ffffff40"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
