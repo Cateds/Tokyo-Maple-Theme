@@ -1,7 +1,7 @@
 {
   "name": "tokyo-maple-theme",
-  "displayName": "Tokyo Maple Theme",
-  "description": "A color theme fine-tuned based on Tokyo Night and Maple for optimized readability.",
+  "displayName": "Maple Fusion Themes",
+  "description": "A collection of refined dark themes for VSCode and Zed, featuring Tokyo Maple, One Dark Maple, and Cursor Dark Maple with enhanced readability and Maple-style syntax highlighting.",
   "icon": "assets/icon.png",
   "publisher": "Cateds",
   "license": "MIT",
