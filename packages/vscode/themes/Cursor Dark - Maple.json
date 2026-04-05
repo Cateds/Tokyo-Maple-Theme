@@ -49,8 +49,10 @@
     "editorBracketHighlight.foreground1": "#88c0d0",
     "editorBracketHighlight.foreground2": "#d0b188",
     "editorBracketHighlight.foreground3": "#8899d0",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff7070",
 
     "editor.stackFrameHighlightBackground": "#EBCB8B20",
+    "multiDiffEditor.headerBackground": "#141414",
 
     "editorCodeLens.foreground": "#ffffff50",
     "editorCursor.foreground": "#FFFFFFC0",
@@ -67,7 +69,7 @@
     "editorGutter.deletedBackground": "#BF616A",
     "editorGutter.modifiedBackground": "#EBCB8B",
     "editorHoverWidget.background": "#1A1A1A",
-    "editorHoverWidget.border": "#2A2A2A",
+    "editorHoverWidget.border": "#ffffff20",
     "editorIndentGuide.activeBackground1": "#505050",
     "editorIndentGuide.background1": "#404040B3",
     "editorInlayHint.background": "#00000000",
@@ -79,7 +81,7 @@
     "editorLineNumber.activeForeground": "#FFFFFFC0",
     "editorLineNumber.foreground": "#505050",
     "editorLink.activeForeground": "#FFFFFFDD",
-    "editorMarkerNavigation.background": "#ffffff70",
+    "editorMarkerNavigation.background": "#141414",
     "editorMarkerNavigationError.background": "#BF616AC0",
     "editorMarkerNavigationWarning.background": "#CCCCCC",
     "editorOverviewRuler.border": "#00000000",
@@ -137,8 +139,9 @@
     "list.invalidItemForeground": "#CCCCCC",
     "list.warningForeground": "#EBCB8B",
     "menu.background": "#141414",
-    "menu.foreground": "#CCCCCC",
-    "menu.separatorBackground": "#CCCCCC",
+    "menu.foreground": "#ffffffa0",
+    "menu.border": "#ffffff20",
+    "menu.separatorBackground": "#ffffff20",
     "menubar.selectionBackground": "#CCCCCC33",
     "merge.border": "#2A2A2A00",
     "merge.currentContentBackground": "#88C0D04D",
@@ -270,7 +273,9 @@
     "inlineEdit.gutterIndicator.primaryForeground": "#88c0d0",
     "inlineEdit.gutterIndicator.primaryBorder": "#88c0d0",
 
-    "actionBar.toggledBackground": "#ffffff40"
+    // "actionBar.toggledBackground": "#ffffff40",
+
+    "settings.modifiedItemIndicator": "#88c0d0"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
