@@ -2,9 +2,9 @@
 
 A dark theme for VSCode and Zed, modified based on the Tokyo Night theme, combining Maple's color style with One Dark Pro's coloring ideas.
 
-![On VSCode](./packages/vscode/screenshots/vscode.png)
+![On VSCode](./assets/vscode.png)
 
-![On Zed](./packages/vscode/screenshots/zed.png)
+![On Zed](./assets/zed.png)
 
 ## **Features**
 

@@ -1,12 +1,50 @@
 {
-  "name": "tokyo-maple-theme-workspace",
-  "version": "1.2.0",
-  "private": true,
-  "description": "Tokyo Maple Theme workspace",
-  "scripts": {
-    "vscode:package": "pnpm --filter tokyo-maple-theme vsce:package",
-    "vscode:publish": "pnpm --filter tokyo-maple-theme vsce:publish",
-    "zed:build": "pnpm --filter zed-theme build"
+  "name": "tokyo-maple-theme",
+  "displayName": "Tokyo Maple Theme",
+  "description": "A color theme fine-tuned based on Tokyo Night and Maple for optimized readability.",
+  "icon": "assets/icon.png",
+  "publisher": "Cateds",
+  "license": "MIT",
+  "version": "1.6.8",
+  "engines": {
+    "vscode": "^1.102.0"
   },
-  "packageManager": "pnpm@9.0.0"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cateds/tokyo-maple-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "scripts": {
+    "publish": "vsce publish; ovsx publish"
+  },
+  "devDependencies": {
+    "ovsx": "^0.10.10",
+    "vsce": "^2.15.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Maple",
+        "uiTheme": "vs-dark",
+        "path": "./packages/vscode/Tokyo Maple.json"
+      },
+      {
+        "label": "One Dark Maple",
+        "uiTheme": "vs-dark",
+        "path": "./packages/vscode/One Dark Pro - Maple.json"
+      },
+      {
+        "label": "One Dark Maple Darker",
+        "uiTheme": "vs-dark",
+        "path": "./packages/vscode/One Dark Pro Darker - Maple.json"
+      },
+      {
+        "label": "Cursor Dark Maple",
+        "uiTheme": "vs-dark",
+        "path": "./packages/vscode/Cursor Dark - Maple.json"
+      }
+    ]
+  }
 }
