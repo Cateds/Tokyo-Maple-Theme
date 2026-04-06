@@ -1,7 +1,7 @@
 id = "tokyo-maple-theme"
-name = "Tokyo Maple Theme"
+name = "Maple Fusion Themes"
 version = "1.3.0"
-schema_version = 1
+schema_version = 2
 authors = ["Cateds <this.id.was.used@outlook.com>"]
-description = "A color theme fine-tuned based on Tokyo Night and Maple for optimized readability."
+description = "A collection of refined dark themes for VSCode and Zed, featuring Tokyo Maple, One Dark Maple, and Cursor Dark Maple with enhanced readability and Maple-style syntax highlighting."
 repository = "https://github.com/Cateds/tokyo-maple-theme"
