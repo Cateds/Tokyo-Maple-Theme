@@ -16,9 +16,9 @@ A collection of refined dark themes for VSCode and Zed, combining popular color 
 
 ### On Zed
 
-| Tokyo Maple                                      | One Dark Maple                                         |
-| ------------------------------------------------ | ------------------------------------------------------ |
-| ![zed-tokyo-maple](./assets/zed-tokyo-maple.png) | ![zed-one-dark-maple](./assets/zed-one-dark-maple.png) |
+| Tokyo Maple                                      | One Dark Maple                                         | Cursor Dark Maple                                            |
+| ------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
+| ![zed-tokyo-maple](./assets/zed-tokyo-maple.png) | ![zed-one-dark-maple](./assets/zed-one-dark-maple.png) | ![zed-cursor-dark-maple](./assets/zed-cursor-dark-maple.png) |
 
 ## **Included Themes**
 
