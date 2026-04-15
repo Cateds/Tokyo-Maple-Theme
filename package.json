@@ -5,7 +5,7 @@
   "icon": "assets/icon.png",
   "publisher": "Cateds",
   "license": "MIT",
-  "version": "1.6.9",
+  "version": "1.6.10",
   "engines": {
     "vscode": "^1.102.0"
   },
