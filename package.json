@@ -5,7 +5,7 @@
   "icon": "assets/icon.png",
   "publisher": "Cateds",
   "license": "MIT",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "engines": {
     "vscode": "^1.102.0"
   },
@@ -17,11 +17,14 @@
     "Themes"
   ],
   "scripts": {
-    "publish": "vsce publish; ovsx publish"
+    "publish": "vsce publish; ovsx publish",
+    "compress:img": "bun run scripts/compress-imgs.ts"
   },
   "devDependencies": {
+    "@vscode/vsce": "^3.7.1",
+    "@types/node": "^25.6.0",
     "ovsx": "^0.10.10",
-    "@vscode/vsce": "^3.7.1"
+    "sharp": "^0.34.5"
   },
   "contributes": {
     "themes": [
