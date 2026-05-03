@@ -10,9 +10,23 @@ A collection of refined dark themes for VSCode and Zed, combining popular color 
 
 ### On VSCode
 
-| Tokyo Maple                              | One Dark Maple                                 | One Dark Maple Darker                                        | Cursor Dark Maple                                    |
-| ---------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------- |
-| ![tokyo-maple](./assets/tokyo-maple.png) | ![one-dark-maple](./assets/one-dark-maple.png) | ![one-dark-maple-darker](./assets/one-dark-maple-darker.png) | ![cursor-dark-maple](./assets/cursor-dark-maple.png) |
+#### Tokyo Night Variants
+
+| Tokyo Maple                              |
+| ---------------------------------------- |
+| ![tokyo-maple](./assets/tokyo-maple.png) |
+
+#### One Dark Pro Variants
+
+| One Dark Maple                                 | One Dark Maple Darker                                        |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| ![one-dark-maple](./assets/one-dark-maple.png) | ![one-dark-maple-darker](./assets/one-dark-maple-darker.png) |
+
+#### Cursor Dark Variants
+
+| Cursor Dark Maple                                    | Cursor Shadow Maple                                      |
+| ---------------------------------------------------- | -------------------------------------------------------- |
+| ![cursor-dark-maple](./assets/cursor-dark-maple.png) | ![cursor-shadow-maple](./assets/cursor-shadow-maple.png) |
 
 ### On Zed
 
@@ -28,6 +42,7 @@ A collection of refined dark themes for VSCode and Zed, combining popular color 
 | **One Dark Maple**        | One Dark Pro | Classic One Dark aesthetic with Maple-style enhancements                   |
 | **One Dark Maple Darker** | One Dark Pro | Darker variant of One Dark Maple for reduced eye strain                    |
 | **Cursor Dark Maple**     | Cursor Dark  | Cursor IDE's signature dark theme with Maple refinements                   |
+| **Cursor Shadow Maple**   | Cursor Dark  | Cursor Dark Maple with One Dark Pro coloring logic for depth and focus     |
 
 ## **Features**
 
