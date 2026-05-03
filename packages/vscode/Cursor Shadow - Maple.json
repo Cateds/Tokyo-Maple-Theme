@@ -22,7 +22,7 @@
     "button.secondaryHoverBackground": "#767676",
     "debugExceptionWidget.background": "#505050",
     "debugExceptionWidget.border": "#141414",
-    "debugToolBar.background": "#1A1A1A",
+    "debugToolBar.background": "#141414",
     "diffEditor.insertedTextBackground": "#FFFFFF22",
     "diffEditor.removedTextBackground": "#FFFFFF22",
     "dropdown.background": "#1a1a1a",
