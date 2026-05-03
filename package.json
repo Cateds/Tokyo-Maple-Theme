@@ -44,6 +44,11 @@
         "label": "Cursor Dark Maple",
         "uiTheme": "vs-dark",
         "path": "./packages/vscode/Cursor Dark - Maple.json"
+      },
+      {
+        "label": "Cursor Shadow Maple",
+        "uiTheme": "vs-dark",
+        "path": "./packages/vscode/Cursor Shadow - Maple.json"
       }
     ]
   }
